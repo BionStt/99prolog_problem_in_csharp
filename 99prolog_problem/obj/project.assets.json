@@ -690,11 +690,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\dev\\99prolog_problem\\99prolog_problem\\99prolog_problem\\99prolog_problem.csproj",
+      "projectUniqueName": "C:\\dev\\99prolog_problem_in_csharp\\99prolog_problem\\99prolog_problem.csproj",
       "projectName": "99prolog_problem",
-      "projectPath": "C:\\dev\\99prolog_problem\\99prolog_problem\\99prolog_problem\\99prolog_problem.csproj",
+      "projectPath": "C:\\dev\\99prolog_problem_in_csharp\\99prolog_problem\\99prolog_problem.csproj",
       "packagesPath": "C:\\Users\\microasif\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\99prolog_problem\\99prolog_problem\\99prolog_problem\\obj\\",
+      "outputPath": "C:\\dev\\99prolog_problem_in_csharp\\99prolog_problem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

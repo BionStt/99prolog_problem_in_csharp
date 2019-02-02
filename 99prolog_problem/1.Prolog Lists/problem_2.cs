@@ -4,11 +4,11 @@ using System.Text;
 
 namespace _99prolog_problem._1.Prolog_Lists
 {
-    public class problem_1
+    class problem_2
     {
-        public static int FindLastElementFromList(List<int> elements)
+        public static int FindSecondLastElement(int[] numbers)
         {
-            return elements[elements.Count-1];
+            return numbers[numbers.Length - 2];
         }
     }
 }
