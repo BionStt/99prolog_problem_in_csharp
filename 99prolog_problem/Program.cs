@@ -12,6 +12,15 @@ namespace _99prolog_problem
 
             Console.WriteLine(problem_1.FindLastElementFromList(numbers));
             Console.WriteLine(problem_2.FindSecondLastElement(numbers));
+            Console.WriteLine(problem_3.FindKthElement(numbers, 5));
+            Console.WriteLine(problem_4.NumberCount(numbers));
+            problem_5.ReverseNumber(numbers);
+            //var reverseNumber = problem_5.ReverseNumber(numbers);
+            //for (int i = 0; i < reverseNumber.Length; i++)
+            //{
+            //    Console.WriteLine(reverseNumber[i]);
+            //}
+
             Console.ReadLine();
         }
     }
